@@ -13,8 +13,9 @@ So here some random quoate that I found Online just to practice my quoatation.
 > "You face many defeats in life, but  
 >never let yourself be defeated." - Maya Angelou
 
-And here some random(my favorite) picture from the Internet
-![I has bucket][img/walrus_bucket.jpg]
+And here a random(my favorite) picture from the Internet.  
+![I has bucket](img/walrus_bucket.jpg)
 
-
+Here is the link to that picture
+[Click here](https://github.com/dingBatman01/prac-class/blob/main/img/walrus_bucket.jpg)
 
